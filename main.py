@@ -6,7 +6,7 @@ variable when it is set and non-empty, otherwise from the literal /output.
 
 import os
 
-ENTRY_TEXT = "\u0391"
+ENTRY_TEXT = "\U0001D5D5"
 ENTRY_FILENAME = "entry.txt"
 DEFAULT_OUTPUT_DIR = "/output"
 
